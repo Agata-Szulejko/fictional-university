@@ -1,0 +1,40 @@
+[04-Nov-2024 14:39:37 UTC] PHP Warning:  Array to string conversion in C:\Users\nethp\Local Sites\fictional-university\app\public\wp-content\themes\fictional university-theme\functions.php on line 6
+[04-Nov-2024 14:39:37 UTC] PHP Warning:  Array to string conversion in C:\Users\nethp\Local Sites\fictional-university\app\public\wp-content\themes\fictional university-theme\functions.php on line 6
+[04-Nov-2024 14:39:48 UTC] PHP Warning:  Array to string conversion in C:\Users\nethp\Local Sites\fictional-university\app\public\wp-content\themes\fictional university-theme\functions.php on line 6
+[04-Nov-2024 14:39:48 UTC] PHP Warning:  Array to string conversion in C:\Users\nethp\Local Sites\fictional-university\app\public\wp-content\themes\fictional university-theme\functions.php on line 6
+[05-Nov-2024 10:52:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "add" in C:\Users\nethp\Local Sites\fictional-university\app\public\wp-content\themes\fictional university-theme\functions.php:20
+Stack trace:
+#0 C:\Users\nethp\Local Sites\fictional-university\app\public\wp-settings.php(668): include()
+#1 C:\Users\nethp\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\nethp\\...')
+#2 C:\Users\nethp\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\nethp\\...')
+#3 C:\Users\nethp\Local Sites\fictional-university\app\public\wp-blog-header.php(13): require_once('C:\\Users\\nethp\\...')
+#4 C:\Users\nethp\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\nethp\\...')
+#5 {main}
+  thrown in C:\Users\nethp\Local Sites\fictional-university\app\public\wp-content\themes\fictional university-theme\functions.php on line 20
+[05-Nov-2024 10:52:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "add" in C:\Users\nethp\Local Sites\fictional-university\app\public\wp-content\themes\fictional university-theme\functions.php:20
+Stack trace:
+#0 C:\Users\nethp\Local Sites\fictional-university\app\public\wp-settings.php(668): include()
+#1 C:\Users\nethp\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\nethp\\...')
+#2 C:\Users\nethp\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\nethp\\...')
+#3 C:\Users\nethp\Local Sites\fictional-university\app\public\wp-blog-header.php(13): require_once('C:\\Users\\nethp\\...')
+#4 C:\Users\nethp\Local Sites\fictional-university\app\public\index.php(17): require('C:\\Users\\nethp\\...')
+#5 {main}
+  thrown in C:\Users\nethp\Local Sites\fictional-university\app\public\wp-content\themes\fictional university-theme\functions.php on line 20
+[05-Nov-2024 10:52:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "add" in C:\Users\nethp\Local Sites\fictional-university\app\public\wp-content\themes\fictional university-theme\functions.php:20
+Stack trace:
+#0 C:\Users\nethp\Local Sites\fictional-university\app\public\wp-settings.php(668): include()
+#1 C:\Users\nethp\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\nethp\\...')
+#2 C:\Users\nethp\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\nethp\\...')
+#3 C:\Users\nethp\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\nethp\\...')
+#4 {main}
+  thrown in C:\Users\nethp\Local Sites\fictional-university\app\public\wp-content\themes\fictional university-theme\functions.php on line 20
+[05-Nov-2024 10:52:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\nethp\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[05-Nov-2024 10:52:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\nethp\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[05-Nov-2024 10:52:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "add" in C:\Users\nethp\Local Sites\fictional-university\app\public\wp-content\themes\fictional university-theme\functions.php:20
+Stack trace:
+#0 C:\Users\nethp\Local Sites\fictional-university\app\public\wp-settings.php(668): include()
+#1 C:\Users\nethp\Local Sites\fictional-university\app\public\wp-config.php(103): require_once('C:\\Users\\nethp\\...')
+#2 C:\Users\nethp\Local Sites\fictional-university\app\public\wp-load.php(50): require_once('C:\\Users\\nethp\\...')
+#3 C:\Users\nethp\Local Sites\fictional-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\nethp\\...')
+#4 {main}
+  thrown in C:\Users\nethp\Local Sites\fictional-university\app\public\wp-content\themes\fictional university-theme\functions.php on line 20
